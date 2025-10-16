@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2025-10-16T10:00:00Z",
+  "changelog": [
+    "Первый релиз KamajiPool",
+    "Поддержка Cursor, Windsurf, Warp",
+    "Система ротации аккаунтов",
+    "Автоматическое обновление"
+  ],
+  "downloads": {
+    "windows_amd64": {
+      "url": "https://cdn.jsdelivr.net/gh/username/kamajipool-releases@main/releases/v1.0.0/kamajipool_windows_amd64.exe",
+      "sha256": "",
+      "size": 0
+    }
+  }
+}
