@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "releaseDate": "2025-10-16T11:32:24Z",
+  "version": "1.0.4",
+  "releaseDate": "2025-10-16T11:36:16Z",
   "changelog": [
     "Улучшен интерфейс обновлений с эмодзи 🎉",
     "Добавлены более понятные тексты кнопок",
@@ -8,8 +8,8 @@
   ],
   "downloads": {
     "windows_amd64": {
-      "url": "https://github.com/TeoDoe777/kamajipool-releases/raw/refs/heads/main/kamajipool_v1.0.3.exe",
-      "sha256": "1b0273e43476a0b6323028a231a59ea48f4e3530f6ce216260e7b9707751ed5e",
+      "url": "https://github.com/TeoDoe777/kamajipool-releases/raw/refs/heads/main/kamajipool_v1.0.4.exe",
+      "sha256": "f7a10e4dbc41789a6df58c8481d5766ae125ac28ddf6285732d7dfa5fb1cb20c",
       "size": 14467584
     }
   }
